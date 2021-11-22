@@ -20,7 +20,7 @@ body{
     background-size: contain;
     background-attachment: fixed;
 }
-.conteiner{
+.container{
     background-color: white;
     position: absolute;
     top: 50%;
